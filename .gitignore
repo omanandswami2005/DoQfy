@@ -1,0 +1,16 @@
+/client/node_modules
+/client/package-lock.json
+
+/server/node_modules
+/server/public
+/server/openai
+/server/.env
+/server/fetch.js
+/server/mainTemp.js
+/server/package-lock.json
+/server/temp.js
+/server/test.js
+
+
+
+
